@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucanductcleaning.ca/sitemap-index.xml
